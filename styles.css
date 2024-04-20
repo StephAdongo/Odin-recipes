@@ -1,0 +1,20 @@
+.heading{
+    color: red;
+    background-color: lightblue;
+    display: inline-block;
+}
+.steps{
+    color: antiquewhite;
+    background-color: blueviolet;
+    display: inline-flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#items{
+    background-color: aquamarine;
+    display: inline-block;
+    font-weight: bolder;
+}
+#describe{
+    background-color: brown;
+    display: inline-block;
+}
